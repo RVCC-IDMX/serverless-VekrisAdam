@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/serverless-VekrisAdam/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/serverless-VekrisAdam#readme"
+  "homepage": "https://github.com/RVCC-IDMX/serverless-VekrisAdam#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.3",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
 }
